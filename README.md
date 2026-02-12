@@ -93,4 +93,4 @@ To begin my career in a **Data Analyst role** where I can apply my skills, gain 
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
