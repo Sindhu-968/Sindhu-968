@@ -85,32 +85,6 @@ To begin my career in a *Data Analyst role* where I can apply my skills, gain in
 
 ---
 
-## 📫 Connect With Me  
-
-📧 Email: gasisindhuja@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gasi-sindhuja  
-
----
-
-⭐ Thank you for visiting my profile!
-
-
-## ✨ About Me
-
-I am an Electronics and Communication Engineering graduate with a strong interest in *data analytics and problem-solving. I am currently undergoing professional training in **Data Analytics at Bytecode Institute*, where I work on real-world datasets to improve my analytical and technical skills. I enjoy transforming raw data into meaningful insights and continuously learning new tools and techniques.
-
----
-
-## 🧠 Core Skills
-
-- *Programming:* Python, C  
-- *Data Analytics:* Data cleaning, data analysis, basic visualization  
-- *Web Basics:* HTML, CSS  
-- *Machine Learning:* Data preprocessing, model training, evaluation  
-- *Tools:* Microsoft Excel, APIs, automation tools  
-
----
-
 ## 🚀 Currently Learning & Practicing
 
 - Hands-on data analysis using Python and Excel  
@@ -135,12 +109,6 @@ I am an Electronics and Communication Engineering graduate with a strong interes
 - Clear communication and teamwork  
 - Fast learner with a growth mindset  
 - Detail-oriented and consistent  
-
----
-
-## 🎯 Career Goal
-
-To begin my career in a *data-driven or analytical role* where I can apply my skills, gain industry exposure, and grow into a reliable and impactful professional.
 
 ---
 
