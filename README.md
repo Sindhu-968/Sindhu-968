@@ -3,12 +3,6 @@
 🎓 ECE Graduate (2025) | 📊 Data Analytics Trainee  
 📍 Guntur, Andhra Pradesh  
 
----# 👋 Hi, I'm Sindhuja  
-
-🎓 ECE Graduate (2025)  
-📊 Data Analyst Trainee at Bytecode Institute  
-📍 Guntur, Andhra Pradesh  
-
 ---
 
 ## ✨ About Me  
