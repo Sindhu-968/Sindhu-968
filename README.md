@@ -19,6 +19,11 @@ Currently working as a *Data Analyst Trainee at Bytecode Institute*, gaining han
 Although my academic background is in ECE, my strong interest in data-driven decision-making motivated me to independently learn *Machine Learning and analytical tools*.
 
 ---
+## 🎯 Career Objective  
+
+To begin my career in a *Data Analyst role* where I can apply my skills, gain industry exposure, and grow into a reliable data professional.
+
+---
 
 ## 🧠 Technical Skills  
 
@@ -76,12 +81,6 @@ Although my academic background is in ECE, my strong interest in data-driven dec
 - Fast learner  
 - Detail-oriented  
 - Good communication skills  
-
----
-
-## 🎯 Career Objective  
-
-To begin my career in a *Data Analyst role* where I can apply my skills, gain industry exposure, and grow into a reliable data professional.
 
 ---
 
