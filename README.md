@@ -1,62 +1,60 @@
-# 👋 Hi, I’m Sindhuja
+<!-- Attractive Banner -->
+<h1 align="center">Hi 👋, I'm Sindhuja</h1>
+<h3 align="center">Data Analyst Trainee | ECE Graduate 2025 | Data Enthusiast</h3>
 
-🎓 ECE Graduate (2025) | 📊 Data Analytics Trainee  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:0b5394&height=200&section=header&text=Sindhuja%20|%20Data%20Analyst&fontSize=35&fontColor=ffffff" />
+</p>
+
+---
+
+## 👩‍💻 About Me  
+
+🎓 Electronics and Communication Engineering Graduate (2025)  
+📊 Data Analyst Trainee at **Bytecode Institute**  
 📍 Guntur, Andhra Pradesh  
 
----
+I am a **data-driven and analytical professional** with hands-on experience in data cleaning, preprocessing, analysis, and visualization.  
 
-## ✨ About Me  
+Currently gaining practical exposure to real-world datasets at Bytecode Institute, where I focus on transforming raw data into meaningful business insights.
 
-I am an Electronics and Communication Engineering graduate with a strong interest in **Data Analytics and problem-solving**.  
-
-Currently working as a **Data Analyst Trainee at Bytecode Institute**, gaining hands-on experience with:
-
-- Real-world datasets  
-- Data cleaning & preprocessing  
-- Data analysis & visualization  
-- Insight generation and reporting  
-
-Although my academic background is in ECE, my strong interest in data-driven decision-making motivated me to independently learn **Machine Learning and analytical tools**.
+Although my academic background is in ECE, my passion for **data analytics and machine learning** motivated me to independently build strong analytical and technical skills.
 
 ---
 
-## 🧠 Technical Skills  
+## 🛠 Technical Skills  
 
 ### 💻 Programming  
-- Python  
-- C  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📊 Data Analytics  
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Basic Data Visualization  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1f4e79?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-0b5394?style=for-the-badge)
 
 ### 🤖 Machine Learning  
-- Data Preprocessing  
-- Model Training  
-- Model Evaluation  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff9800?style=for-the-badge)
+![Model Training](https://img.shields.io/badge/Model%20Training-673ab7?style=for-the-badge)
 
 ### 🌐 Web Basics  
-- HTML  
-- CSS  
-
-### 🛠 Tools  
-- Microsoft Excel  
-- APIs  
-- Automation Tools  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 Projects  
+## 🚀 Key Projects  
 
-### 🔹 Image Caption Generation using BLIP  
-- Generated image captions using deep learning  
-- Classified captions using ML models (Logistic Regression, SVM, Random Forest)  
+### 🔹 Image Caption Generation  
+- Built deep learning-based caption generation system  
+- Applied ML models: Logistic Regression, SVM, Random Forest  
 - Integrated WhatsApp automation using Twilio API  
+- Focused on model evaluation and classification accuracy  
 
 ### 🔹 Telugu Handwritten Character Recognition  
-- Developed character recognition model using Python  
-- Applied image preprocessing and classification techniques  
+- Developed image-based character recognition model  
+- Implemented preprocessing and classification pipeline  
+- Improved recognition performance using ML techniques  
 
 ---
 
@@ -69,19 +67,18 @@ Although my academic background is in ECE, my strong interest in data-driven dec
 
 ---
 
-## 💡 Strengths  
+## 📈 GitHub Stats  
 
-- Strong analytical thinking  
-- Problem-solving mindset  
-- Fast learner  
-- Detail-oriented  
-- Good communication skills  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🎯 Career Objective  
 
-To begin my career in a **Data Analyst role** where I can apply my skills, gain industry exposure, and grow into a reliable data professional.
+To begin my career as a **Data Analyst**, where I can apply analytical skills, work with business datasets, generate actionable insights, and grow into a high-impact data professional.
 
 ---
 
@@ -92,63 +89,6 @@ To begin my career in a **Data Analyst role** where I can apply my skills, gain 
 
 ---
 
+<p align="center">
 ⭐ Thank you for visiting my profile!
-
-
-## ✨ About Me
-
-I am an Electronics and Communication Engineering graduate with a strong interest in **data analytics and problem-solving**. I am currently undergoing professional training in **Data Analytics at Bytecode Institute**, where I work on real-world datasets to improve my analytical and technical skills. I enjoy transforming raw data into meaningful insights and continuously learning new tools and techniques.
-
----
-
-## 🧠 Core Skills
-
-- **Programming:** Python, C  
-- **Data Analytics:** Data cleaning, data analysis, basic visualization  
-- **Web Basics:** HTML, CSS  
-- **Machine Learning:** Data preprocessing, model training, evaluation  
-- **Tools:** Microsoft Excel, APIs, automation tools  
-
----
-
-## 🚀 Currently Learning & Practicing
-
-- Hands-on data analysis using Python and Excel  
-- Data visualization and insight generation  
-- Analytical thinking and reporting techniques  
-- Improving code quality and efficiency  
-
----
-
-## 📜 Certifications
-
-- 🏅 The Joy of Computing Using Python (Elite) – NPTEL, IIT Madras  
-- ☁️ Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate – Oracle University  
-- 🌐 Complete Responsive Web Development Bootcamp – Udemy  
-- 🔐 Introduction to Cybersecurity – Cisco Networking Academy  
-
----
-
-## 💡 Strengths
-
-- Strong analytical and logical thinking  
-- Clear communication and teamwork  
-- Fast learner with a growth mindset  
-- Detail-oriented and consistent  
-
----
-
-## 🎯 Career Goal
-
-To begin my career in a **data-driven or analytical role** where I can apply my skills, gain industry exposure, and grow into a reliable and impactful professional.
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: gasisindhuja@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gasi-sindhuja  
-
----
-
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+</p>
